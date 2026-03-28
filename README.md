@@ -57,12 +57,12 @@
 
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqsaqi&show_icons=true&locale=en&layout=compact" alt="mushtaqsaqi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqahmadsaqi&show_icons=true&locale=en&layout=compact" alt="mushtaqahmadsaqi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushtaqsaqi&show_icons=true&locale=en" alt="mushtaqsaqi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushtaqsaqi&show_icons=true&locale=en" alt="mushtaqahmadsaqi" /></p>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaqsaqi&" alt="mushtaqsaqi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaqahmadsaqi&" alt="mushtaqahmadsaqi" />
 </div>
 
 
