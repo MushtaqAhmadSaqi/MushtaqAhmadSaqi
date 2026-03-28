@@ -57,12 +57,12 @@
 
 
 ### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushtaqahmadsaqi&show_icons=true&locale=en&layout=compact" alt="mushtaqahmadsaqi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact" alt="MushtaqAhmadSaqi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushtaqsaqi&show_icons=true&locale=en" alt="mushtaqahmadsaqi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&locale=en" alt="MushtaqAhmadSaqi" /></p>
 
 <div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushtaqahmadsaqi&" alt="mushtaqahmadsaqi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MushtaqAhmadSaqi&" alt="MushtaqAhmadSaqi" />
 </div>
 
 
@@ -73,11 +73,11 @@
 
 ## GitHub Profile Summary:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushtaqsaqi&theme=vue" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MushtaqAhmadSaqi&theme=vue" alt="GitHub Profile Summary" />
 </p>
 
 ---
 
 
 ### Activity Graph:
-![Your Name's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mushtaqsaqi&theme=react-dark)
+![Your Name's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark)
