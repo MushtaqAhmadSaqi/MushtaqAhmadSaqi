@@ -1,43 +1,37 @@
 <h1 align="center">Hi 👋, I'm Mushtaq Ahmad Saqi</h1>
 
-### Full-Stack Developer and Machine Learning Enthusiast from Islamabad , Pakistan
+### Full-Stack Developer and Machine Learning Enthusiast from Islamabad, Pakistan
 
 - 🌟 Passionate about crafting seamless **Frontend** experiences, building robust **Backend** systems, and exploring the power of **Machine Learning**.
 - 💻 On a mission to create impactful applications and intelligent systems.
 - 📚 Currently diving deeper into advanced Machine Learning algorithms and full-stack optimization techniques.
-  
-
 
 ---
-<img align="right" alt="codind" width="400" src="https://github.com/user-attachments/assets/cca2800a-422d-4a7e-bb8a-fbc138615e45 ">
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cca2800a-422d-4a7e-bb8a-fbc138615e45">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushtaqsaqi&label=Profile%20views&color=0e75b6&style=flat" alt="mushtaqsaqi" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/your_username" target="_blank"><img src="https://img.shields.io/twitter/follow/your_username?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
 
 ---
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="left" 
+<p align="left">
   <a href="https://www.linkedin.com/in/mushtaqahmad12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-
 </p>
 
 ---
 
 ### Languages and Tools:
+
 #### Frontend Development:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-<!--   <img src="https://tse1.mm.bing.net/th/id/OIP.dlN3XoOEiJxtzCtbKUBNAQHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="CSS style= height: 67> -->
-
 </p>
 
 #### Backend Development:
@@ -52,9 +46,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
-
 ---
-
 
 ### GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact" alt="MushtaqAhmadSaqi" /></p>
@@ -65,11 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MushtaqAhmadSaqi&" alt="MushtaqAhmadSaqi" />
 </div>
 
-
-
 ---
-
-
 
 ## GitHub Profile Summary:
 <p align="center">
@@ -77,7 +65,6 @@
 </p>
 
 ---
-
 
 ### Activity Graph:
 ![Your Name's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark)
