@@ -1,70 +1,71 @@
-<h1 align="center">Hi 👋, I'm Mushtaq Ahmad Saqi</h1>
+<h1 align="center">Hi 👋, I'm Mushtaq Ahmad</h1>
+<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
 
-### Full-Stack Developer and Machine Learning Enthusiast from Islamabad, Pakistan
-
-- 🌟 Passionate about crafting seamless **Frontend** experiences, building robust **Backend** systems, and exploring the power of **Machine Learning**.
-- 💻 On a mission to create impactful applications and intelligent systems.
-- 📚 Currently diving deeper into advanced Machine Learning algorithms and full-stack optimization techniques.
-
----
-
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/cca2800a-422d-4a7e-bb8a-fbc138615e45">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mushtaqsaqi&label=Profile%20views&color=0e75b6&style=flat" alt="mushtaqsaqi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/your_username" target="_blank"><img src="https://img.shields.io/twitter/follow/your_username?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mushtaqahmad12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
-
-### Languages and Tools:
-
-#### Frontend Development:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-</p>
-
-#### Backend Development:
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</p>
-
-#### Machine Learning:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
-
----
-
-### GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact" alt="MushtaqAhmadSaqi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&locale=en" alt="MushtaqAhmadSaqi" /></p>
-
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MushtaqAhmadSaqi&" alt="MushtaqAhmadSaqi" />
+<div align="center">
+  <p>Passionate about crafting seamless frontend experiences, building robust backend systems, and exploring the power of Machine Learning. On a mission to create impactful applications and intelligent systems.</p>
 </div>
 
 ---
 
-## GitHub Profile Summary:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MushtaqAhmadSaqi&theme=vue" alt="GitHub Profile Summary" />
-</p>
+### 👨‍💻 About Me
+
+- 🎓 AI & Computer Science student at **COMSATS University Islamabad**.
+- 🔭 Currently building **OpenPrep**, an AI-powered educational web platform, and a comprehensive **Hotel Management System** in Java.
+- 🌱 Actively diving deeper into **Machine Learning algorithms**, **Data Structures**, and full-stack optimization techniques.
+- 💡 Exploring ways to leverage Google Colab for ML projects and building utility applications like grading logic calculators.
+- 🎵 Fun Fact: I code best while listening to Nusrat Fateh Ali Khan!
 
 ---
 
-### Activity Graph:
-![Your Name's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark)
+### 🛠️ Languages & Tools
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+#### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter/Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MushtaqAhmadSaqi&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mushtaqahmad12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://twitter.com/your_username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MushtaqAhmadSaqi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
