@@ -1,125 +1,252 @@
 
----
+<br clear="both">
 
-### 🛠️ Tech Arsenal
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,java,mysql&theme=dark" alt="Backend"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,colab&theme=dark" alt="ML & Tools"/>
-
-</div>
+### 🎨 Frontend Development
 
 <table>
-<tr>
-<td valign="top" width="33%">
-
-**🎨 Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</td>
-<td valign="top" width="33%">
-
-**⚙️ Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**🤖 ML & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://react.dev/">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
 </table>
 
----
+### ⚙️ Backend & Database
 
-### 🚀 Featured Projects
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+### 🤖 AI / ML & Tools
 
-<a href="https://github.com/MushtaqAhmadSaqi/OpenPrep">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=OpenPrep&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB" alt="OpenPrep"/>
-</a>
-<a href="https://github.com/MushtaqAhmadSaqi/Hotel-Management-System">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=Hotel-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB" alt="Hotel Management System"/>
-</a>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="https://colab.research.google.com/">
+        <img src="https://img.icons8.com/color/48/google-colab.png" width="48" height="48" alt="Colab" />
+      </a>
+      <br>Colab
+    </td>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB&icon_color=6A82FB" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB" height="165" alt="Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MushtaqAhmadSaqi&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MushtaqAhmadSaqi&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark&hide_border=true&area=true&height=300" width="100%" alt="Activity Graph"/>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### 💡 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
-</div>
-
----
-
-### 🤝 Let's Connect
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushtaqahmad12/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MushtaqAhmadSaqi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A82FB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MushtaqAhmadSaqi)
+  <!-- Stats Cards Row -->
+  <a href="https://github.com/MushtaqAhmadSaqi">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&count_private=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/MushtaqAhmadSaqi">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MushtaqAhmadSaqi&layout=compact&theme=radical&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&langs_count=8" />
+  </a>
 
 </div>
 
-<br/>
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A82FB&height=3" width="100%" alt="line"/>
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/MushtaqAhmadSaqi">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MushtaqAhmadSaqi&theme=radical&background=0D1117&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&border=A960FF" alt="GitHub Streak" width="70%" />
+  </a>
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:da22ff,50:6a82fb,100:e66465&height=120&section=footer" alt="footer"/>
+<br>
+
+<!-- Trophies -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MushtaqAhmadSaqi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  </a>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <a href="https://github.com/MushtaqAhmadSaqi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=A960FF&area=true&hide_border=true&custom_title=📊%20Mushtaq's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+  </a>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/MushtaqAhmadSaqi/OpenPrep">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=OpenPrep&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
+  </a>
+  <a href="https://github.com/MushtaqAhmadSaqi/Hotel-Management-System">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=Hotel-Management-System&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
+  </a>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/mushtaqahmad12/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/your_username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MushtaqAhmadSaqi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+  </a>
+
+  <br><br>
+
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
+
+  <br><br>
+
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=MushtaqAhmadSaqi&label=Profile%20Views&color=A960FF&style=for-the-badge" alt="Profile Views" />
+  &nbsp;
+  <a href="https://github.com/MushtaqAhmadSaqi?tab=followers">
+    <img src="https://img.shields.io/github/followers/MushtaqAhmadSaqi?label=Followers&style=for-the-badge&color=A960FF&labelColor=0D1117" alt="Followers" />
+  </a>
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&fontSize=75" />
+
+<div align="center">
+  <b>⭐ If you like my work, consider giving a star to my repos! ⭐</b>
+  <br><br>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+</div>
