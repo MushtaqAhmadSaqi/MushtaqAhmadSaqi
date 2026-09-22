@@ -136,10 +136,10 @@
 
   <!-- Stats Cards Row -->
   <a href="https://github.com/MushtaqAhmadSaqi">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&count_private=true&include_all_commits=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&count_private=true&include_all_commits=true" />
   </a>
   <a href="https://github.com/MushtaqAhmadSaqi">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MushtaqAhmadSaqi&layout=compact&theme=radical&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushtaqAhmadSaqi&layout=compact&theme=radical&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&langs_count=8" />
   </a>
 
 </div>
@@ -171,7 +171,7 @@
 
 <div align="center">
   <a href="https://github.com/MushtaqAhmadSaqi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=A960FF&area=true&hide_border=true&custom_title=📊%20Mushtaq's%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=A960FF&area=true&hide_border=true&custom_title=Mushtaq%27s%20Contribution%20Graph" width="100%" alt="Activity Graph" />
   </a>
 </div>
 
@@ -194,11 +194,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/MushtaqAhmadSaqi/OpenPrep">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=OpenPrep&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
+  <a href="https://github.com/MushtaqAhmadSaqi/COMSATSPrepHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=COMSATSPrepHub&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
   </a>
-  <a href="https://github.com/MushtaqAhmadSaqi/Hotel-Management-System">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=Hotel-Management-System&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
+  <a href="https://github.com/MushtaqAhmadSaqi/ComsatPrepHub-React">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=ComsatPrepHub-React&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
   </a>
 </div>
 
@@ -211,14 +211,6 @@
   <br>
   <a href="https://www.linkedin.com/in/mushtaqahmad12/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your_username" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
   </a>
   &nbsp;
   <a href="https://github.com/MushtaqAhmadSaqi" target="_blank">
