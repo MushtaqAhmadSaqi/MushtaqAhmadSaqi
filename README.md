@@ -1,63 +1,93 @@
-<h1 align="center">Hi 👋, I'm Mushtaq Ahmad</h1>
-<h3 align="center">Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
+
+---
+
+### 🛠️ Tech Arsenal
 
 <div align="center">
-  <p>Passionate about crafting seamless frontend experiences, building robust backend systems, and exploring the power of Machine Learning. On a mission to create impactful applications and intelligent systems.</p>
-</div>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 AI & Computer Science student at **COMSATS University Islamabad**.
-- 🔭 Currently building **OpenPrep**, an AI-powered educational web platform, and a comprehensive **Hotel Management System** in Java.
-- 🌱 Actively diving deeper into **Machine Learning algorithms**, **Data Structures**, and full-stack optimization techniques.
-- 💡 Exploring ways to leverage Google Colab for ML projects and building utility applications like grading logic calculators.
-- 🎵 Fun Fact: I code best while listening to Nusrat Fateh Ali Khan!
-
----
-
-### 🛠️ Languages & Tools
-
-#### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-
-#### Backend & Database
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-#### Machine Learning & Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend"/>
 <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,java,mysql&theme=dark" alt="Backend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,colab&theme=dark" alt="ML & Tools"/>
+
+</div>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🎨 Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**🤖 ML & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MushtaqAhmadSaqi&theme=radical" alt="GitHub Streak" />
+
+<a href="https://github.com/MushtaqAhmadSaqi/OpenPrep">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=OpenPrep&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB" alt="OpenPrep"/>
+</a>
+<a href="https://github.com/MushtaqAhmadSaqi/Hotel-Management-System">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=Hotel-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB" alt="Hotel Management System"/>
+</a>
+
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB&icon_color=6A82FB" height="165" alt="Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=MushtaqAhmadSaqi&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A82FB" height="165" alt="Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MushtaqAhmadSaqi&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MushtaqAhmadSaqi&theme=discord&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
 </div>
 
 ---
 
-### 🐍 My GitHub Contribution Snake
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&theme=react-dark&hide_border=true&area=true&height=300" width="100%" alt="Activity Graph"/>
+
+---
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake-dark.svg" />
@@ -67,15 +97,29 @@
 
 ---
 
-### 🤝 Connect with Me
+### 💡 Dev Quote of the Day
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mushtaqahmad12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://twitter.com/your_username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mushtaqahmad12/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MushtaqAhmadSaqi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A82FB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MushtaqAhmadSaqi)
+
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MushtaqAhmadSaqi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A82FB&height=3" width="100%" alt="line"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:da22ff,50:6a82fb,100:e66465&height=120&section=footer" alt="footer"/>
