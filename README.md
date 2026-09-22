@@ -14,13 +14,13 @@
   <tr>
     <td align="center" width="96">
       <a href="https://react.dev/">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -63,13 +63,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com/">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -88,7 +88,7 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
@@ -112,7 +112,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
@@ -130,48 +130,17 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-
-  <!-- Stats Cards Row -->
-  <a href="https://github.com/MushtaqAhmadSaqi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MushtaqAhmadSaqi&show_icons=true&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&count_private=true&include_all_commits=true" />
+  <a href="https://github.com/MushtaqAhmadSaqi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20my%20projects-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
   </a>
-  <a href="https://github.com/MushtaqAhmadSaqi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MushtaqAhmadSaqi&layout=compact&theme=radical&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&border_color=A960FF&hide_border=false&langs_count=8" />
+  <a href="https://github.com/MushtaqAhmadSaqi?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Explore%20my%20work-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred repositories" />
   </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <!-- Streak Stats -->
-  <a href="https://github.com/MushtaqAhmadSaqi">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=MushtaqAhmadSaqi&theme=radical&background=0D1117&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&border=A960FF" alt="GitHub Streak" width="70%" />
-  </a>
-
-</div>
-
-<br>
-
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MushtaqAhmadSaqi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-  </a>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/MushtaqAhmadSaqi">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MushtaqAhmadSaqi&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area_color=A960FF&area=true&hide_border=true&custom_title=Mushtaq%27s%20Contribution%20Graph" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/MushtaqAhmadSaqi?tab=overview">
+    <img src="https://img.shields.io/badge/Contributions-See%20my%20activity-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="See contribution activity" />
   </a>
 </div>
 
@@ -195,10 +164,10 @@
 
 <div align="center">
   <a href="https://github.com/MushtaqAhmadSaqi/COMSATSPrepHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=COMSATSPrepHub&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
+    <img src="https://img.shields.io/badge/COMSATSPrepHub-Open%20repository-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Open COMSATSPrepHub repository" />
   </a>
   <a href="https://github.com/MushtaqAhmadSaqi/ComsatPrepHub-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MushtaqAhmadSaqi&repo=ComsatPrepHub-React&theme=radical&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&border_color=A960FF" width="49%" />
+    <img src="https://img.shields.io/badge/ComsatPrepHub--React-Open%20repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Open ComsatPrepHub React repository" />
   </a>
 </div>
 
