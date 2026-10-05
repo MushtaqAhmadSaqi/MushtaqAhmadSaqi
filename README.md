@@ -18,7 +18,7 @@ ways to grow as a developer. My current focus is building impactful projects,
 improving my problem-solving skills, and learning something new every day.
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <br clear="both">
 
