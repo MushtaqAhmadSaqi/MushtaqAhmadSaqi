@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Hi, I'm Mushtaq Ahmad Saqi 👋</h1>
   <h3>Full-Stack Developer | AI/ML Learner | Problem Solver</h3>
@@ -6,9 +5,6 @@
     I build practical, user-focused applications and enjoy turning ideas into
     clean, reliable software. I am currently sharpening my skills across web
     development, databases, and artificial intelligence.
-  </p>
-  <p>
-    📍 Pakistan
   </p>
 </div>
 
@@ -221,12 +217,12 @@ improving my problem-solving skills, and learning something new every day.
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
   </a>
 
-  <br><br>
+<br><br>
 
   <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
 
-  <br><br>
+<br><br>
 
   <!-- Profile Views & Followers -->
   <img src="https://komarev.com/ghpvc/?username=MushtaqAhmadSaqi&label=Profile%20Views&color=A960FF&style=for-the-badge" alt="Profile Views" />
