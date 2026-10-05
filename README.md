@@ -8,7 +8,7 @@
     development, databases, and artificial intelligence.
   </p>
   <p>
-    📍 Pakistan &nbsp;•&nbsp; 🕒 <a href="https://time.is/Pakistan">Pakistan Standard Time (UTC+05:00)</a>
+    📍 Pakistan
   </p>
 </div>
 
@@ -177,13 +177,6 @@ improving my problem-solving skills, and learning something new every day.
     src="https://streak-stats.demolab.com?user=MushtaqAhmadSaqi&theme=radical&hide_border=true&border_radius=10"
     alt="Mushtaq Ahmad Saqi's GitHub contribution streak, including current and longest streak"
   />
-  <br><br>
-  <a href="https://time.is/Pakistan">
-    <img
-      src="https://img.shields.io/badge/Local%20time-Check%20current%20time%20in%20Pakistan-A960FF?style=for-the-badge&logo=clockify&logoColor=white"
-      alt="Check the current local time in Pakistan"
-    />
-  </a>
 </div>
 
 <!-- Animated Divider -->
