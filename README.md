@@ -1,4 +1,29 @@
 
+<div align="center">
+  <h1>Hi, I'm Mushtaq Ahmad Saqi 👋</h1>
+  <h3>Full-Stack Developer | AI/ML Learner | Problem Solver</h3>
+  <p>
+    I build practical, user-focused applications and enjoy turning ideas into
+    clean, reliable software. I am currently sharpening my skills across web
+    development, databases, and artificial intelligence.
+  </p>
+  <p>
+    📍 Pakistan &nbsp;•&nbsp; 🕒 <a href="https://time.is/Pakistan">Pakistan Standard Time (UTC+05:00)</a>
+  </p>
+</div>
+
+## 🎯 My Vision
+
+> To keep learning, build technology that solves meaningful problems, and help
+> create a future where useful software is accessible to everyone.
+
+I believe consistent practice, curiosity, and sharing knowledge are the best
+ways to grow as a developer. My current focus is building impactful projects,
+improving my problem-solving skills, and learning something new every day.
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br clear="both">
 
 <!-- Animated Divider -->
@@ -141,6 +166,23 @@
   </a>
   <a href="https://github.com/MushtaqAhmadSaqi?tab=overview">
     <img src="https://img.shields.io/badge/Contributions-See%20my%20activity-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="See contribution activity" />
+  </a>
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <p>Tracking my current streak, longest streak, and total contribution days.</p>
+  <img
+    src="https://streak-stats.demolab.com?user=MushtaqAhmadSaqi&theme=radical&hide_border=true&border_radius=10"
+    alt="Mushtaq Ahmad Saqi's GitHub contribution streak, including current and longest streak"
+  />
+  <br><br>
+  <a href="https://time.is/Pakistan">
+    <img
+      src="https://img.shields.io/badge/Local%20time-Check%20current%20time%20in%20Pakistan-A960FF?style=for-the-badge&logo=clockify&logoColor=white"
+      alt="Check the current local time in Pakistan"
+    />
   </a>
 </div>
 
