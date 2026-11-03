@@ -170,7 +170,7 @@ improving my problem-solving skills, and learning something new every day.
 <div align="center">
   <p>Tracking my current streak, longest streak, and total contribution days.</p>
   <img
-    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    src="https://streak-stats.demolab.com?user=MushtaqAhmadSaqi&theme=radical&hide_border=true&border_radius=10"
     alt="Mushtaq Ahmad Saqi's GitHub contribution streak, including current and longest streak"
   />
 </div>
@@ -182,9 +182,9 @@ improving my problem-solving skills, and learning something new every day.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg?v=2" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MushtaqAhmadSaqi/MushtaqAhmadSaqi/output/github-contribution-grid-snake.svg?v=2" />
   </picture>
 </div>
 
