@@ -170,7 +170,7 @@ improving my problem-solving skills, and learning something new every day.
 <div align="center">
   <p>Tracking my current streak, longest streak, and total contribution days.</p>
   <img
-    src="https://streak-stats.demolab.com?user=MushtaqAhmadSaqi&theme=radical&hide_border=true&border_radius=10"
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
     alt="Mushtaq Ahmad Saqi's GitHub contribution streak, including current and longest streak"
   />
 </div>
