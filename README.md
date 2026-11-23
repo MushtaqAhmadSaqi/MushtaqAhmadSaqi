@@ -1,24 +1,35 @@
 <div align="center">
   <h1>Hi, I'm Mushtaq Ahmad Saqi 👋</h1>
-  <h3>Full-Stack Developer | AI/ML Learner | Problem Solver</h3>
+  <h3>Full-Stack Developer • AI/ML Learner • Problem Solver</h3>
   <p>
     I build practical, user-focused applications and enjoy turning ideas into
-    clean, reliable software. I am currently sharpening my skills across web
+    clean, reliable software. I am continuously improving my skills in web
     development, databases, and artificial intelligence.
+  </p>
+  <p>
+    <a href="https://github.com/MushtaqAhmadSaqi?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore%20my%20projects-A960FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
+    </a>
+    <a href="https://www.linkedin.com/in/mushtaqahmad12/">
+      <img src="https://img.shields.io/badge/Let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+    </a>
   </p>
 </div>
 
-## 🎯 My Vision
+## 👨‍💻 About Me
 
-> To keep learning, build technology that solves meaningful problems, and help
-> create a future where useful software is accessible to everyone.
+- I enjoy creating useful applications that solve real problems.
+- I care about readable code, thoughtful user experiences, and continuous learning.
+- I am currently strengthening my skills across full-stack development and AI/ML.
 
-I believe consistent practice, curiosity, and sharing knowledge are the best
-ways to grow as a developer. My current focus is building impactful projects,
-improving my problem-solving skills, and learning something new every day.
+## 🎯 Current Focus
 
-<!-- Animated Divider -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
+> Learn consistently, build meaningful products, and share knowledge with the
+> developer community.
+
+- Building and improving practical full-stack projects
+- Exploring artificial intelligence and machine learning
+- Improving problem-solving, database, and software design skills
 
 <br clear="both">
 
